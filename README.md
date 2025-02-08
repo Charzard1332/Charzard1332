@@ -47,9 +47,7 @@
 
 ### 🚀 My Latest Projects
 
-- [**Project Name**](#) - Short description of your project and its main features.  
-- [**Project Name**](#) - Short description of your project and its main features.  
-- [**Project Name**](#) - Short description of your project and its main features.  
+- COMING SOON 
 
 ---
 
