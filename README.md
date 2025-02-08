@@ -35,8 +35,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Charzard1332&show_icons=true&theme=radical" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Charzard1332&layout=compact&theme=radical" alt="Top Languages" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Charzard1332&show_icons=true&theme=highcontrast" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Charzard1332&layout=compact&theme=highcontrast" alt="Top Languages" height="180" />
 </p>
 
 <!-- If the stats don’t appear or if you need more customization, you can visit:
