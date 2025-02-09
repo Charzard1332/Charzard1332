@@ -47,7 +47,7 @@
 
 ### 🚀 My Latest Projects
 
-- COMING SOON 
+- [Gitdev](https://github.com/Charzard1332/GitDev)
 
 ---
 
