@@ -14,7 +14,7 @@
 - 🌱 I’m currently working on **.NET projects** and expanding my knowledge of **cloud technologies**  
 - 🚀 I love solving complex problems using **C#** and exploring the latest **.NET** frameworks  
 - 💬 Ask me about anything related to **.NET**, **C#**, or **API development**  
-- 📫 How to reach me: [LinkedIn](#) (Add your link here) or [Email](mailto:your-email@example.com)  
+- 📫 How to reach me: [Email](mailto:charchar7256@icloud.com)  
 - ⚡ Fun fact: I can spend hours fine-tuning my code until it’s pixel-perfect  
 
 ---
